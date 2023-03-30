@@ -22,7 +22,7 @@ This project aims to analyze and predict the air quality index of various cities
 	9. aqi of states on an india map
 	10. aqi of cities on an india map
 
-#### staion_merged_csv is made in this ipynb by combing station csv and station_day csv
+#### 🛃 staion_merged_csv is made in this ipynb by combing station csv and station_day csv
 
 #### 📙 2_model_analysis_of_aqi_in_india.ipynb
 
@@ -33,7 +33,7 @@ this uses the station_merged_csv and does performs these tasks:
 
 * the best model made was xgb_model (Training score:  0.95, Testing score: 0.91, MEA : 21.22 , MSE: 1370.24, RMSE: 37)
 
-#### xgb_model was made in this ipynb
+#### 🛃 xgb_model was made in this ipynb
 
 #### 📙3_main_AQI_predictor.pyw
 
@@ -46,7 +46,7 @@ this is the main gui program that uses the xgb_model to predict aqi of a region 
 
 * For more insights on data distribution, data preprocessing and inputs/ outputs of 3_main_AQI_predictor refer to README_PART_2_3
 
-* in order README_PART1 --> README_PART_2_3
+*  🛃 in order README_PART1 --> README_PART_2_3
 
 # 📚 about the dataset:
 
