@@ -12,7 +12,7 @@ OUTPUT GRAPHS GIVEN BELOW
 
 ### 📚 about the dataset
 
-the csv has 5 csv city_day, city_hour, station_day, station_hour, station csv out of these i have used only station_day and station csv as they have more data (more than 100000 rows) 
+the dataset has 5 csv city_day, city_hour, station_day, station_hour, station csv out of these i have used only station_day and station csv as they have more data (more than 100000 rows) 
 
 ### 📕 station csv:-
 
