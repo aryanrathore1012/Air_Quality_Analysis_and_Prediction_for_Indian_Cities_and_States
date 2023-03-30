@@ -1,6 +1,23 @@
-# PART - 1 Preliminary and Exploratory data analysis of aqi in india
+# 🔬  PART - 1 Preliminary and Exploratory data analysis of aqi in india
 
-### DONE IN 1_exploratory_analysis_of_aqi_in_india.ipynb
+### 	➡️  DONE IN 1_exploratory_analysis_of_aqi_in_india.ipynb
+
+# 🪟 where you can get this data?
+
+The dataset is avaible on kaggle this is the link: https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
+
+* city_day csv
+* city_hour csv
+* station_day csv
+* station_hour csv
+* station csv
+
+The links for geo json files of india are as follows:
+
+* state geojson: https://github.com/Subhash9325/GeoJson-Data-of-Indian-States
+* district geojson: https://www.kaggle.com/datasets/krutarthhd/india-geojson-file?select=district
+
+********
 
 this is the first part of the project in this we will perform 
 
