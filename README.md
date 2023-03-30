@@ -32,6 +32,8 @@ in my city indore there are several places that show aqi and chemical levels tro
  > an example of these visualization, 10. aqi of cities on an india map
  
  ![image](https://user-images.githubusercontent.com/91218998/228799299-9d256766-8be8-4c04-b813-9d1f1978b004.png)
+ 
+ ### refer to 1_exploratory_analysis_of_aqi_in_india.ipynb or README_PART1 to get insights on more visualizations
 
 #### 🛃 staion_merged_csv is made in this ipynb by combing station csv and station_day csv
 
