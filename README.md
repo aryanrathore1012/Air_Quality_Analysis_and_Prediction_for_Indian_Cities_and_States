@@ -4,7 +4,7 @@ This project aims to analyze and predict the air quality index of various cities
 
 # 💡 inspiration
 
-in my city indore there are sevral places that show aqi and chemical levels trought the day in tabular format i reashered about this topic and found out this research paper
+in my city indore there are several places that show aqi and chemical levels trought the day in tabular format i reashered about this topic and found out this research paper
 https://www.diva-portal.org/smash/get/diva2:1681590/FULLTEXT02 in this research paper they have just taken this model and shoved data into making an avarage model
 
 * in this project i have tried my best to make and better model 
