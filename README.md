@@ -29,6 +29,10 @@ in my city indore there are several places that show aqi and chemical levels tro
 	9. aqi of states on an india map
 	10. aqi of cities on an india map
 
+ > an example of these visualization, 10. aqi of cities on an india map
+ 
+ ![image](https://user-images.githubusercontent.com/91218998/228799299-9d256766-8be8-4c04-b813-9d1f1978b004.png)
+
 #### 🛃 staion_merged_csv is made in this ipynb by combing station csv and station_day csv
 
 #### 📙 2_model_analysis_of_aqi_in_india.ipynb
@@ -146,6 +150,16 @@ after analysing the data and training the model these insights have been extract
 * email: aryanrathore13572002@gmail.com, aryan.rathore2021@vitbhopal.ac.in
 
 # ----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 
 
 
