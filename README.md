@@ -49,7 +49,7 @@ this is the main gui program that uses the xgb_model to predict aqi of a region 
 
 # what readmes to read first:
 
-* for more insights and detailed process regaurding exploratory and preliminary analysis with visual and interacvtible graphsrefer README_PART1 (part 1 of this project)
+* for more insights and detailed process regaurding exploratory and preliminary analysis with visual and interacvtible graphs refer README_PART1 (part 1 of this project)
 
 * For more insights on data distribution, data preprocessing and inputs/ outputs of 3_main_AQI_predictor refer to README_PART_2_3
 
