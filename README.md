@@ -2,7 +2,15 @@
 
 This project aims to analyze and predict the air quality index of various cities and states in India using machine learning. The dataset used in this project contains historical data of air quality index readings from various monitoring stations across India.
 
-## 📚 PARTS OF THE PROJECT
+# 💡 inspiration
+
+in my city indore there are sevral places that show aqi and chemical levels trought the day in tabular format i reashered about this topic and found out this research paper
+https://www.diva-portal.org/smash/get/diva2:1681590/FULLTEXT02 in this research paper they have just taken this model and shoved data into making an avarage model
+
+* in this project i have tried my best to make and better model 
+* and extract usefull and meaningfull insights about aqi trend in india using interactive and good looking maps
+
+### 📚 PARTS OF THE PROJECT
 
 > The project is divided into 3 Parts:
 
