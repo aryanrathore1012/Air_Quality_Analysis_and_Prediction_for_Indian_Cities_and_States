@@ -1,5 +1,7 @@
 # PART - 1 Preliminary and Exploratory data analysis of aqi in india
 
+### DONE IN 1_exploratory_analysis_of_aqi_in_india.ipynb
+
 this is the first part of the project in this we will perform 
 
 * Preliminary and Exploratory analysis of station and station_day csv
