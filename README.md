@@ -9,6 +9,8 @@ in my city indore there are several places that show aqi and chemical levels tro
 * in this project i have tried my best to make and better model with more data 100000, compared to 30000 in the research paper
 * and extract usefull and meaningfull insights about aqi trend in india using interactive and good looking maps
 
+# YOU CAN CHECK THE READMES FOR PART 1 AND 2_3 OF THIS PROJECT AND CHECK DEMO VIDEO FOR THE OUTPUT
+
 ### 📚 PARTS OF THE PROJECT
 
 > The project is divided into 3 Parts:
