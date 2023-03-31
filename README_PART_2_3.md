@@ -187,7 +187,7 @@ Model comparison involves comparing the performance of different models on a giv
 * but my is not the best and can still be upgraded 
 * xgb_model has worse rmse of 37.011 which is 1 units more than rigde regression model
 
-# 🔜 future ugrades
+# 🔜 future upgrades
 
 * building a dedicated website or app so the program can be avaible
 on both pc and mobile
