@@ -2,7 +2,7 @@
 
 This project aims to analyze and predict the air quality index of various cities and states in India using machine learning. The dataset used in this project contains historical data of air quality index readings from various monitoring stations across India.
 
-# 💡 inspiration
+# 💡 inspiration and What is unique in the project
 
 in my city indore there are several places that show aqi and chemical levels troughout the day in a tabular format, i researched about this topic and found out this research paper https://www.diva-portal.org/smash/get/diva2:1681590/FULLTEXT02 in this research paper they have just taken a small amount of data and shoved it into models
 
